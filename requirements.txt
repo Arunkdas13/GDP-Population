@@ -4,3 +4,4 @@ geopandas
 matplotlib
 geoplot
 mapclassify
+plotly
